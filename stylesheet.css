@@ -1,0 +1,45 @@
+h1{ 
+    color: rgb(53, 53, 54);
+    font-family:monospace;
+    font-size: 30px;
+}
+h2{
+    color: aliceblue;
+}
+body{
+     background-color:grey;
+
+}
+  #start-button{
+    font-style: oblique;
+    font-size: 20px;
+    top:-200px;
+    left:-1180px;
+    height: 60px;
+    width:150px;
+    border:10px;
+    position: relative;
+    border-radius:20px;
+  }
+  img{
+    width: 1300px;
+    height: 500px;
+    border-radius: 20px;
+    display: relative;
+    margin: auto;
+  }
+  #canvas {
+    background-color: rgb(34, 64, 183);
+    border:12px;
+    margin: auto;
+    left: 20px;
+    border-radius:20px;
+  }
+  p{
+    padding: 30px;
+    font-size: larger;
+  }
+  #fly{
+    margin: auto;
+    border-radius: 20px;
+  }
